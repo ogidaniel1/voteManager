@@ -1,0 +1,2 @@
+# voteManager
+A voting app
